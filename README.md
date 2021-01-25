@@ -10,6 +10,7 @@ I made a model to store data the model have following fieds.
 - Active or not active
 - Json field to store geo Json
 - Category
+
 we use django default admin to store data in the database(Default django database). We have only one view that get the point of interest from the data base if they are active. And passes it to the frontend. On
 frontend I have used mapbox api. Javascript takes that data and shows that on the screen using mapbox api. I did this project in about 4 hours.
 
